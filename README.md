@@ -278,82 +278,111 @@ All activities were performed within an authorized educational scope, and no una
 ### 8.1 W2-PM1 – Footprinting & Reconnaissance with Multiple Kali Tools
 
 #### WHOIS Domain Information
-![WHOIS Result](evidences/w2-pm1/whois-result.png)
+<img width="992" height="1084" alt="whois-result" src="https://github.com/user-attachments/assets/e5e74c74-8250-4fde-b1eb-2908358a82a7" />
 
 #### Web Technologies Fingerprinting with WhatWeb
-![WhatWeb Result](evidences/w2-pm1/whatweb-result.png)
+<img width="987" height="229" alt="whatweb-result" src="https://github.com/user-attachments/assets/4115ed63-8f43-418f-bdc6-4d7201b1a1f0" />
+
 
 #### DNS Resolution with Nslookup
-![Nslookup Result](evidences/w2-pm1/nslookup-result.png)
+<img width="212" height="150" alt="nslookup-result" src="https://github.com/user-attachments/assets/70a60712-ac84-4a3a-9b8e-aa68eb1151c3" />
+
 
 #### HTTP Response Headers with Curl
-![Curl Result](evidences/w2-pm1/curl-result.png)
+<img width="1056" height="254" alt="curl-result" src="https://github.com/user-attachments/assets/e580c275-2817-476f-86a3-58573108a53b" />
+
 
 #### Web Application Firewall Detection with Wafw00f
-![Wafw00f Result](evidences/w2-pm1/wafw00f-result.png)
+<img width="740" height="372" alt="wafw00f-result" src="https://github.com/user-attachments/assets/3b11e7f4-9eb1-4095-a63f-eef55bb6d46d" />
+
 
 #### DNS Enumeration with DNSRecon
-![DNSRecon Result](evidences/w2-pm1/dnsrecon-result.png)
+<img width="929" height="459" alt="dnsrescon_result" src="https://github.com/user-attachments/assets/44a9a096-4287-45dd-9452-767fe6c3e5c1" />
+
 
 ---
 ### 8.2 W2-PM2 – Footprinting with Google Hacking Database (GHDB)
 
 #### Summary of Results (Task 1 & Task 2)
-![GHDB Results Table](evidences/w2-pm2/ghdb-results-table.png)
+<img width="421" height="1180" alt="dORKS" src="https://github.com/user-attachments/assets/648c09be-ea8c-4f8d-9d59-f69a967c495f" />
+<img width="900" height="695" alt="exposed-camera" src="https://github.com/user-attachments/assets/e61ff294-da14-4131-8403-466775ac7ea1" />
+<img width="1270" height="1259" alt="ghdb-menu" src="https://github.com/user-attachments/assets/64152c29-97c4-4355-97b0-9ea71ab90468" />
+[ghdb-results-table.pdf](https://github.com/user-attachments/files/31275510/ghdb-results-table.pdf)
+<img width="1149" height="1036" alt="google-dork-cam" src="https://github.com/user-attachments/assets/b9d594af-3ff3-439a-a318-0c6b8c13df26" />
+
+
 
 If you want to view the full detailed list as a downloadable document, you can click the link below:
-[📥 Download the GHDB Results PDF](evidences/w2-pm2/ghdb-results-table.pdf)
+[📥 Download the GHDB Results PDF](evidences/w2-pm2/ghdb-results-table.pdf) [ghdb-results-table.pdf](https://github.com/user-attachments/files/31275564/ghdb-results-table.pdf)
+
 
 ---
 ### 8.3 W2-PM3 – Footprinting with Maltego
 
 #### Maltego Installation and Run as Administrator
-![Maltego Installation](evidences/w2-pm3/maltego-install.png)
+<img width="2310" height="1254" alt="maltego-install" src="https://github.com/user-attachments/assets/4286adf7-bceb-4f80-8947-42b15d3b156f" />
+
 
 #### Maltego Welcome and Activation
-![Maltego Activation](evidences/w2-pm3/maltego-activation.png)
+<img width="2307" height="1262" alt="maltego-activation" src="https://github.com/user-attachments/assets/4ab5ec0f-f8ac-4d8f-8358-10e5e76bddfb" />
+
 
 #### Graph Workspace and Domain Search
-![Maltego Workspace](evidences/w2-pm3/maltego-workspace.png)
+<img width="2303" height="1276" alt="maltego-workspace" src="https://github.com/user-attachments/assets/3d34c19b-9eb4-4282-b42a-751196a99bdf" />
+
+
 
 #### Setting Target Domain to networkwalks.com
-![Maltego Domain Setup](evidences/w2-pm3/maltego-domain-setup.png)
+<img width="2306" height="1276" alt="maltego-domain-setup" src="https://github.com/user-attachments/assets/27f67a7a-6582-4093-b246-01eb6a42b96c" />
+
 
 #### Running Email Transforms
-![Maltego Email Transform](evidences/w2-pm3/maltego-email-transform.png)
+<img width="2560" height="1440" alt="maltego-email-transform" src="https://github.com/user-attachments/assets/42762b71-188f-457d-a36f-d468396169a1" />
+
 
 #### Email Discovery Result
-![Maltego Email Discovery](evidences/w2-pm3/maltego-email-discovery.png)
+<img width="2305" height="1260" alt="maltego-email-discovery" src="https://github.com/user-attachments/assets/73102426-d4b5-4ef0-bc2a-aacdca68e4d5" />
+
 
 ---
 ### 8.4 W2-PM4 – Footprinting & Reconnaissance with theHarvester
 
 #### theHarvester Usage and Available Options
-![theHarvester Usage](evidences/w2-pm4/theharvester-usage.png)
+<img width="1282" height="1399" alt="theharvester-usage" src="https://github.com/user-attachments/assets/52c26d47-d7bf-4ccd-8364-ac1f5975beae" />
+
 
 #### Passive Reconnaissance Using Baidu (Emails & 22 Hosts)
-![theHarvester Baidu Result](evidences/w2-pm4/theharvester-baidu-result.png)
+<img width="708" height="1058" alt="theharvester-baidu-result" src="https://github.com/user-attachments/assets/46d01ce7-1e05-46d2-9e92-b41a09d0bef7" />
+
 
 #### Passive Reconnaissance Using All Sources (API Key Missing)
-![theHarvester All Sources](evidences/w2-pm4/theharvester-all-sources.png)
+<img width="554" height="1348" alt="theharvester-all-sources" src="https://github.com/user-attachments/assets/3b0e1096-c81c-4e1a-b4fb-cfb333feadec" />
+
 
 ---
 ### 8.5 W2-PM5 – Network Scanning with Zenmap
 
 #### Zenmap Installation and Setup
-![Zenmap Install](evidences/w2-pm5/zenmap-install.png)
+<img width="903" height="737" alt="Zemap-Setup" src="https://github.com/user-attachments/assets/3a8bc082-8638-4d7f-901a-105c93a6aa0b" />
+<img width="1168" height="1317" alt="Zemap install" src="https://github.com/user-attachments/assets/781da1c1-0e82-463e-8330-51f62aece894" />
+
 
 #### Local IP Identification via `ip addr`
-![Local IP Identified](evidences/w2-pm5/ip-addr-result.png)
+<img width="907" height="894" alt="ip-addr-result" src="https://github.com/user-attachments/assets/5bc90ea8-9e71-4ae0-bc35-f75467eabc26" />
+
 
 #### Host IP and MAC Address Details in Nmap Output (Also contains Live Host List)
-![Zenmap Nmap Output](evidences/w2-pm5/zenmap-output-details.png)
+<img width="766" height="729" alt="zenmap-output-details" src="https://github.com/user-attachments/assets/1b32abb5-7ae4-44e1-a5be-7a525ae7f951" />
+
 
 #### Network Topology (Fisheye View)
-![Zenmap Network Topology](evidences/w2-pm5/zenmap-network-topology.png)
+<img width="1278" height="1401" alt="zenmap-network-topology" src="https://github.com/user-attachments/assets/78b6d539-f642-4fe3-8690-ef3627419b77" />
+
 
 #### Full Subnet Host List
-[📥 Download the full host list (PDF)](evidences/w2-pm5/zenmap-full-host-list.pdf)
+[📥 Download the full host list (PDF)](evidences/w2-pm5/zenmap-full-host-list.pdf) 
+[zenmap-full-host-list.pdf](https://github.com/user-attachments/files/31275751/zenmap-full-host-list.pdf)
+
 
 ---
 
@@ -366,7 +395,9 @@ All penetration testing activities described in this report were performed stric
 **Authorized Tester:** Jenik Shrestha (Intern, Batch B082)
 
 You can download and view the full signed authorization letter below:
-[📥 Download the Signed Authorization Letter (PDF)](./Permission-Letter.pdf)
+[📥 Download the Signed Authorization Letter (PDF)](./Permission-Letter.pdf) 
+[W2-PM  Permission Letter.pdf](https://github.com/user-attachments/files/31275764/W2-PM.Permission.Letter.pdf)
+
 
 ---
 
