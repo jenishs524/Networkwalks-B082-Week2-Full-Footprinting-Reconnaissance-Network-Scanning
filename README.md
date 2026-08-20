@@ -37,7 +37,7 @@
 <table>
   <tr>
     <td align="center"><b>Pentester Name<br>(Cybersecurity Trainee)</b></td>
-    <td><b>Aysan Aliguliyeva</b></td>
+    <td><b>Jenik shrestha</b></td>
   </tr>
 
   <tr>
