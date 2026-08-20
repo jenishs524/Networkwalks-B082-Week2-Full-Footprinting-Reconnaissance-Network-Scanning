@@ -1,5 +1,3 @@
-# Networkwalks-B082-Week2-Full-Footprinting-Reconnaissance-Network-Scanning
-
 <div align="center">
 
 <h1>PENETRATION TESTING REPORT</h1>
@@ -37,7 +35,7 @@
 <table>
   <tr>
     <td align="center"><b>Pentester Name<br>(Cybersecurity Trainee)</b></td>
-    <td><b>Jenik shrestha</b></td>
+    <td><b>Jenik Shrestha</b></td>
   </tr>
 
   <tr>
