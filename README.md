@@ -396,7 +396,8 @@ All penetration testing activities described in this report were performed stric
 
 You can download and view the full signed authorization letter below:
 [📥 Download the Signed Authorization Letter (PDF)](./Permission-Letter.pdf) 
-[W2-PM  Permission Letter.pdf](https://github.com/user-attachments/files/31275764/W2-PM.Permission.Letter.pdf)
+
+[W2-PM Permission Letter.PDF](https://github.com/user-attachments/files/31276028/W2-PM.Permission.Letter.PDF)
 
 
 ---
