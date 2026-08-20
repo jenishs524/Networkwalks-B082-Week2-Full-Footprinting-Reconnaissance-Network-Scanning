@@ -71,7 +71,7 @@
 
   <tr>
     <td align="center"><b>Permission secured?</b></td>
-    <td>Yes – All activities were performed within an authorized educational scope or on my own local network.</td>
+    <td>Yes – All activities were performed within an authorized educational scope or on my own local network. (See Section 9 for the Authorization Letter).</td>
   </tr>
 
   <tr>
@@ -298,17 +298,11 @@ All activities were performed within an authorized educational scope, and no una
 ---
 ### 8.2 W2-PM2 – Footprinting with Google Hacking Database (GHDB)
 
-#### GHDB Menu on Exploit-DB
-![GHDB Menu](evidences/w2-pm2/ghdb-menu.png)
+#### Summary of Results (Task 1 & Task 2)
+![GHDB Results Table](evidences/w2-pm2/ghdb-results-table.png)
 
-#### Searching Webcams with Google Dorks
-![Google Dork Cam Search](evidences/w2-pm2/google-dork-cam.png)
-
-#### Searching Math PDFs with Google Dorks
-![Google Dork PDF Search](evidences/w2-pm2/google-dork-pdf.png)
-
-#### Example of Active Camera Discovery
-![Exposed Camera IP](evidences/w2-pm2/exposed-camera.png)
+If you want to view the full detailed list as a downloadable document, you can click the link below:
+[📥 Download the GHDB Results PDF](evidences/w2-pm2/ghdb-results-table.pdf)
 
 ---
 ### 8.3 W2-PM3 – Footprinting with Maltego
@@ -346,17 +340,33 @@ All activities were performed within an authorized educational scope, and no una
 ---
 ### 8.5 W2-PM5 – Network Scanning with Zenmap
 
+#### Zenmap Installation and Setup
+![Zenmap Install](evidences/w2-pm5/zenmap-install.png)
+
 #### Local IP Identification via `ip addr`
 ![Local IP Identified](evidences/w2-pm5/ip-addr-result.png)
 
-#### Live Host Discovery with Zenmap (nmap -sn)
-![Zenmap Ping Scan](evidences/w2-pm5/zenmap-ping-scan.png)
-
-#### Host IP and MAC Address Details in Nmap Output
+#### Host IP and MAC Address Details in Nmap Output (Also contains Live Host List)
 ![Zenmap Nmap Output](evidences/w2-pm5/zenmap-output-details.png)
 
 #### Network Topology (Fisheye View)
 ![Zenmap Network Topology](evidences/w2-pm5/zenmap-network-topology.png)
+
+#### Full Subnet Host List
+[📥 Download the full host list (PDF)](evidences/w2-pm5/zenmap-full-host-list.pdf)
+
+---
+
+## 9. Permission & Authorization Letter
+
+All penetration testing activities described in this report were performed strictly under the official authorization of the Client (Networkwalks). The official Letter of Authorization for Cybersecurity Testing confirms the authorized scope, dates, and conditions of the testing engagement.
+
+**Reference No:** NW-LOA-B082-017  
+**Valid Period:** 19 August 2026 to 24 August 2026  
+**Authorized Tester:** Jenik Shrestha (Intern, Batch B082)
+
+You can download and view the full signed authorization letter below:
+[📥 Download the Signed Authorization Letter (PDF)](./Permission-Letter.pdf)
 
 ---
 
@@ -364,10 +374,10 @@ All activities were performed within an authorized educational scope, and no una
 
 ## 👤 Author
 
-**Aysan Aliguliyeva**  
+**Jenik Shrestha**  
 Cybersecurity Trainee | B082  
 Networkwalks Cybersecurity Program  
-LinkedIn: https://www.linkedin.com/in/aysən-əliquliyeva96575a383?utm_source=share_via&utm_content=profile&utm_medium=member_android
+*www.linkedin.com/in/jenikshrestha*
 
 ---
 
